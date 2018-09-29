@@ -1,0 +1,11 @@
+C:\Users\wilen\Desktop\SeeSharp\SingleLinkedLists\bin\Debug\netcoreapp2.0\SingleLinkedLists.deps.json
+C:\Users\wilen\Desktop\SeeSharp\SingleLinkedLists\bin\Debug\netcoreapp2.0\SingleLinkedLists.runtimeconfig.json
+C:\Users\wilen\Desktop\SeeSharp\SingleLinkedLists\bin\Debug\netcoreapp2.0\SingleLinkedLists.runtimeconfig.dev.json
+C:\Users\wilen\Desktop\SeeSharp\SingleLinkedLists\bin\Debug\netcoreapp2.0\SingleLinkedLists.dll
+C:\Users\wilen\Desktop\SeeSharp\SingleLinkedLists\bin\Debug\netcoreapp2.0\SingleLinkedLists.pdb
+C:\Users\wilen\Desktop\SeeSharp\SingleLinkedLists\obj\Debug\netcoreapp2.0\SingleLinkedLists.csprojResolveAssemblyReference.cache
+C:\Users\wilen\Desktop\SeeSharp\SingleLinkedLists\obj\Debug\netcoreapp2.0\SingleLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\wilen\Desktop\SeeSharp\SingleLinkedLists\obj\Debug\netcoreapp2.0\SingleLinkedLists.AssemblyInfoInputs.cache
+C:\Users\wilen\Desktop\SeeSharp\SingleLinkedLists\obj\Debug\netcoreapp2.0\SingleLinkedLists.AssemblyInfo.cs
+C:\Users\wilen\Desktop\SeeSharp\SingleLinkedLists\obj\Debug\netcoreapp2.0\SingleLinkedLists.dll
+C:\Users\wilen\Desktop\SeeSharp\SingleLinkedLists\obj\Debug\netcoreapp2.0\SingleLinkedLists.pdb
